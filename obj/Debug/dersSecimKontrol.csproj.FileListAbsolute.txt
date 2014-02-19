@@ -1,0 +1,9 @@
+C:\Users\vys\Source\Repos\kl\dersSecimKontrol\dersSecimKontrol\bin\Debug\dersSecimKontrol.exe.config
+C:\Users\vys\Source\Repos\kl\dersSecimKontrol\dersSecimKontrol\bin\Debug\dersSecimKontrol.exe
+C:\Users\vys\Source\Repos\kl\dersSecimKontrol\dersSecimKontrol\bin\Debug\dersSecimKontrol.pdb
+C:\Users\vys\Source\Repos\kl\dersSecimKontrol\dersSecimKontrol\obj\Debug\dersSecimKontrol.csprojResolveAssemblyReference.cache
+C:\Users\vys\Source\Repos\kl\dersSecimKontrol\dersSecimKontrol\obj\Debug\dersSecimKontrol.Form1.resources
+C:\Users\vys\Source\Repos\kl\dersSecimKontrol\dersSecimKontrol\obj\Debug\dersSecimKontrol.Properties.Resources.resources
+C:\Users\vys\Source\Repos\kl\dersSecimKontrol\dersSecimKontrol\obj\Debug\dersSecimKontrol.csproj.GenerateResource.Cache
+C:\Users\vys\Source\Repos\kl\dersSecimKontrol\dersSecimKontrol\obj\Debug\dersSecimKontrol.exe
+C:\Users\vys\Source\Repos\kl\dersSecimKontrol\dersSecimKontrol\obj\Debug\dersSecimKontrol.pdb
